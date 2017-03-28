@@ -1,0 +1,4 @@
+
+public enum ExEnum {
+    ONE, TWO, THREE, FOUR, FIVE, SIX, SEVEN
+}

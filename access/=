@@ -1,0 +1,7 @@
+static import exercisepackage.debug.IdenticalClass.debug;
+//static import exercisepackage.debugoff.Identical.debug;
+
+public class Exercise3 {
+
+    
+}
